@@ -44,27 +44,34 @@ pip install tensorflow numpy opencv-python matplotlib seaborn scikit-learn
 ```
 
 
-Getting Started
+# Getting Started
+
 Clone this repository to your local machine:
 bash
-Copy code
+```bash
 git clone <repository_url>
+```
+
+
 Navigate to the project directory:
 bash
-Copy code
+```bash
 cd cats-vs-dogs-classification
+```
+
 Download the dataset from Kaggle and place it in the appropriate directories:
 
 Place the training images in data/train
 Place the test images in data/test
 Run the main script to train the model and evaluate its performance:
 
-bash
-Copy code
+```bash
 python main.py
-Directory Structure
-bash
-Copy code
+```
+
+# Directory Structure
+
+```bash
 cats-vs-dogs-classification/
 │
 ├── data/
@@ -77,7 +84,10 @@ cats-vs-dogs-classification/
 ├── evaluation.py             # Functions for evaluating the model
 │
 └── README.md                 # Project README file
-Results
+```
+
+# Results
+
 The trained model's performance is evaluated based on the following metrics:
 
 Accuracy
@@ -85,12 +95,15 @@ Precision
 Recall
 Confusion Matrix
 ROC Curve
-License
+
+
+# License
+
 This project is licensed under the MIT License.
 
 Feel free to reach out with any questions or feedback.
 
 csharp
-Copy code
-
+```bash
 Just copy this Markdown code and paste it into your `README.md` file on GitHub. Replace `<reposit
+```
