@@ -116,11 +116,11 @@ Recall: 0.8994
 
 Confusion Matrix
 
-<img src="Result/CM.png">
+<img src="Results/CM.png">
 
 ROC Curve
 
-<img src="Result/ROC.png">
+<img src="Results/ROC.png">
 
 
 # License
