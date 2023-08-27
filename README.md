@@ -82,7 +82,7 @@ The RandomFlip, RandomRotation, and RandomZoom layers in data augmentation help 
 Clone this repository to your local machine:
 bash
 ```bash
-git clone <repository_url>
+git clone <[https://github.com/HsuehYiLu/Cat-_Dog-_classification.git>
 ```
 
 
