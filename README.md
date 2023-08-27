@@ -82,7 +82,7 @@ The RandomFlip, RandomRotation, and RandomZoom layers in data augmentation help 
 Clone this repository to your local machine:
 bash
 ```bash
-git clone <[https://github.com/HsuehYiLu/Cat-_Dog-_classification.git>
+git clone <https://github.com/HsuehYiLu/Cat-_Dog-_classification.git>
 ```
 
 
@@ -92,10 +92,14 @@ bash
 cd cats-vs-dogs-classification
 ```
 
-Download the dataset from Kaggle and place it in the appropriate directories:
+Download the dataset from Kaggle and place it in the appropriate directories: https://www.kaggle.com/competitions/dogs-vs-cats/data.
+
+Unzip the train and test1 folder.
 
 Place the training images in data/train
+
 Place the test images in data/test
+
 Run the main script to train the model and evaluate its performance:
 
 
@@ -104,23 +108,22 @@ Run the main script to train the model and evaluate its performance:
 The trained model's performance is evaluated based on the following metrics:
 
 Accuracy: 0.8428
+
 Precision: 0.8092
+
 Recall: 0.8994
 
 
 Confusion Matrix
 
-
+<img src="Result/CM.png">
 
 ROC Curve
+
+<img src="Result/ROC.png">
 
 
 # License
 
 This project is licensed under the MIT License.
 
-
-csharp
-```bash
-Just copy this Markdown code and paste it into your `README.md` file on GitHub. Replace `<reposit
-```
